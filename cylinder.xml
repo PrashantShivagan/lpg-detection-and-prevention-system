@@ -1,0 +1,10 @@
+<chart theme="fint" caption="Diesel Level in Generator" subcaption="Bakersfield Central" lowerlimit="0" upperlimit="25" lowerlimitdisplay="Empty" upperlimitdisplay="Full" numbersuffix=" ltrs" showvalue="0" chartbottommargin="45">
+    <value>25.34</value>
+    <annotations origw="400" origh="190" autoscale="1">
+        <annotationgroup id="range">
+            <annotation id="rangeBg" type="rectangle" x="$canvasCenterX-45" y="$chartEndY-30" tox="$canvasCenterX +45" toy="$chartEndY-75" fillcolor="#6caa03" />
+            <annotation id="rangeText" type="Text" fontsize="11" fillcolor="#333333" text="25.34 ltrs" x="$chartCenterX-45" y="$chartEndY-50" />
+        </annotationgroup>
+    </annotations>
+</chart>
+COPY

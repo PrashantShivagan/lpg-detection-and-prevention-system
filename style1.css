@@ -1,0 +1,10 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-size: 120%;
+  font-family:helvetica;
+  background:url('wallpaper.jpg') #0f2439 no-repeat center top;
+}
+
